@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 :root{
-  font-size: 62,5%;    /*unidade de medida padrao do navegador é 16px(estatico), com esse font-size o navegador fica com 10px, ficando mais fácil manusear a unidade relativa para obter a responsividade*/
+  font-size: 62,5%;    
 }
 ul{
   list-style: none;
